@@ -1,6 +1,7 @@
 alert("Here is you coder!!");
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 a=prompt("Enter your name :");
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14,3 +15,6 @@ alert(" CR7 ");
 =======
 b=prompt("Enter your class :");
 >>>>>>> manral
+=======
+alert("Genjutsu is the coolest..");
+>>>>>>> prashant
